@@ -2,11 +2,8 @@
 
 
 
-- 🔭 I’m currently working on a very especial useful course!
+- 🔭 I’m currently working on a very especial course.
 - 🌱 I’m currently learning JS.
-- 👯 I’m looking to collaborate on big web project.
+- 👯 I’m looking to collaborate on big web project as a front-end.
 - 💬 Ask me about HTML,CSS,git,..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: ... maybe add next time!
