@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a very especial course.
 - 🌱 I’m currently learning JS.
 - 👯 I’m looking to collaborate on big web project as a front-end.
-- 💬 Ask me about HTML,CSS,git,JS...
+- 💬 Ask me about HTML,CSS,JS,git...
 - 📫 How to reach me: ... maybe add next time!
 - Visit my website and leave your comment please:
 -   Photography-Project ==> https://literate-hand.surge.sh/
