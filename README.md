@@ -8,7 +8,7 @@
 - 💬 Ask me about HTML,CSS,git,JS...
 - 📫 How to reach me: ... maybe add next time!
 - Visit my website and leave your comment please:
--   https://literate-hand.surge.sh/
--   https://simplistic-stranger.surge.sh/
--   https://nonchalant-bears.surge.sh/
--   https://abject-position.surge.sh
+-   Photography-Project ==> https://literate-hand.surge.sh/
+-   Travelly-project ==> https://simplistic-stranger.surge.sh/
+-   Beat-Maker-Dev-Course ==> https://nonchalant-bears.surge.sh/
+-   Color-project ==> https://abject-position.surge.sh
