@@ -1,4 +1,4 @@
-### Hi there, I'm Mehran and I wanna be a web-developer! 👋
+   Hi there, I'm Mehran and I love craeting bot & web developing! 👋
 
 
 
