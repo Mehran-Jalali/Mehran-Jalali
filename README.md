@@ -1,4 +1,4 @@
-   Hi there, I'm Mehran and I love craeting bot & web developing! 👋
+   Hi there, I'm Mehran and I love creating bot & web development! 👋
 
 
 
