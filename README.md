@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a very especial course.
-- 🌱 I’m currently learning vanilla JS.
+- 🌱 I’m currently learning vanilla JS and nodeJs.
 - 👯 I’m looking to collaborate on big web project as a front-end.
 - 💬 Ask me about HTML,CSS,JS,git...
 - 📫 How to reach me: https://www.fiverr.com/mehranjalali1?up_rollout=true
