@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning vanilla JS and nodeJs.
 - 👯 I’m looking to collaborate on big web project as a front-end.
 - 💬 Ask me about HTML,CSS,JS,nodeJS,mongoDB,MERN,git...
-- 📫 How to reach me: https://www.fiverr.com/mehranjalali1?up_rollout=true
 - Visit my website and leave your comment please:
 -   Photon USED API ==> https://draconian-kitten.surge.sh
 -   Apple eCommerce ==> https://burly-harbor.surge.sh
